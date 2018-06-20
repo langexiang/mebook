@@ -6,3 +6,5 @@ Organize valuable books
 
 
 ## 目录结构
+* coding 主要是编程相关， 主要是耗子哥在《极客时间专栏》 编程系列文章中提到的文章
+  * [README](#coding/README.md) 对 coding 目录下内容说明
