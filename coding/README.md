@@ -57,7 +57,7 @@
 
 + 坚持到 YouTube 上每天看 5 分钟的视频。YouTube 上有相关的机器字幕，实在不行就打开字幕。
 + 坚持用英文词典而不是中文的。比如：剑桥英语词典 或是 Dictionary.com 。你可以安装一个 Chrome 插件 Google Dictionary。
-+ 坚持用英文的教材而不是中文的。比如：BBC 的 Learning English ，或是到一些 ESL 网站上看看，如 ESL: English as a Second Language 上有一些课程。
++ 坚持用英文的教材而不是中文的。比如：[BBC 的 Learning English](http://www.bbc.co.uk/learningenglish/) ，或是到一些 ESL 网站上看看，如 [ESL: English as a Second Language](https://www.rong-chang.com/) 上有一些课程。
 + 花钱参加一些线上的英文课程，用视频和老外练习。
 
 ### 问问题的能力
