@@ -61,8 +61,10 @@
 + 花钱参加一些线上的英文课程，用视频和老外练习。
 
 ### 问问题的能力
-+ [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html), 最早是由 Eric Steven Raymond 所撰写的，详细描述了发问者事前应该做好什么，而什么又是不该做的。作者认为这样能让问题容易令人理解，而且发问者自己也能学到较多东西。
-此文一经发出，就广受好评，被广泛转载并奉为经典。该文也有 [简体中文翻译版](http://doc.zengrong.net/smart-questions/cn.html) 被流传着，所以在华人界也是篇很有名的文章。有两个著名的缩写 STFW（Search the fxxking web）以及 RTFM（Read the fxxking manual）就是出自本文。
+[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html), 最早是由 Eric Steven Raymond 所撰写的，详细描述了发问者事前应该做好什么，而什么又是不该做的。作者认为这样能让问题容易令人理解，而且发问者自己也能学到较多东西。
+此文一经发出，就广受好评，被广泛转载并奉为经典。
+
+该文也有 [简体中文翻译版](http://doc.zengrong.net/smart-questions/cn.html) 被流传着，所以在华人界也是篇很有名的文章。有两个著名的缩写 STFW（Search the fxxking web）以及 RTFM（Read the fxxking manual）就是出自本文。
 
 ### 写代码的修养
 + 《代码大全》，
