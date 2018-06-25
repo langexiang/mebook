@@ -35,8 +35,9 @@
 
 ## 进价
 + 《C 陷阱与缺陷》， 你会发现C 的很多坑。
-+ 《Effective C++》
++ 《《Effective C++》和《More Effective C++》 这两本书不厚，但是我读了 10 多年，每过一段时间再读一下，就会发现有更多的收获。这两本书的内容会随着你经历的丰富而变得丰富，这也是对我影响最大的两本书，其中影响最大的不是书中的那些 C++ 的东西，而是作者的思维方式和不断求真的精神，这真是太赞了。
 + 《深度探索 C++ 对象模型 》，这本书是非常之经典的，看完后，C++ 对你来说就再也没有什么秘密可言。
++ 还有 C++ 的作者 Bjarne Stroustrup 写的 [C++ FAQ](http://www.stroustrup.com/bs_faq.html) （[中文版](http://www.stroustrup.com/bsfaqcn.html)），也是非常值得一读的。
 ## GO
 
 ## 系统知识
